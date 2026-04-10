@@ -5,7 +5,6 @@ TagManager:
   serializedVersion: 3
   tags:
   - Cat
-  - cat
   layers:
   - Default
   - TransparentFX
